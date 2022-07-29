@@ -1,0 +1,22 @@
+<h1>PRUEBA PRIMERA PAGINA</h1>
+<br>
+<br>
+Francisco Jimenez Hernandez
+<br>
+<br>
+Visite <a href="http://www.aluracursos.com"> aqui </a>
+
+<a href="http://facebook.com"> facebook </a>
+
+<script> alert("Hoy es un gran dia para aprender programacion");
+</script>
+
+<br>
+<br>
+<meta charset="UTF-8">
+<h1>Usando JavaScript por primera vez</h1>
+<script>
+    alert("Este es un pop-up en JavaScript");
+</script>
+
+Esto está fuera de JavaScript...
